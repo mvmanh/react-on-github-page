@@ -1,5 +1,6 @@
 {
   "name": "react-app",
+    "homepage": "https://mvmanh.github.io/react-on-github-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
